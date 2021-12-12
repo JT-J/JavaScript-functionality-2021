@@ -10,17 +10,7 @@ mellan varje inlägg). Du kan ha valfri uppsättning inmatningsfält (i exemplet
 email, hemsida, telefon och kommentar) men minst ett textfält för att skriva in kommentar
 ska finnas.
 För betyget G krävs att den grundläggande funktionaliteten finns, dvs. att användare ska
-kunna skriva inlägg och se tidigare inlägg på sidan. För VG krävs dessutom att
-- [ ] data ska sparas i JSON-format i textfil
-- [ ] formulären ska valideras på något sätt (t.ex. giltig e-postadress) med lämplig
-återkoppling till användare som gjort något fel
-- [ ] ondskefull input ska hanteras, t.ex. genom att krokodilkäft < ska göras om till
-escape-sekvensen ”&lt;” för att förhindra att någon skriver in HTML-element eller
-skript på sidan
-- [ ] någon form av individuell prägel med kreativ funktionalitet ska finnas, t.ex.
-inloggningsfunktion eller upvotes/downvotes
-- [ ] du bifogar en kort skriftlig rapport (pdf - helst inte Word) där du beskriver vad du har
-gjort för att hantera ovanstående punkter
+kunna skriva inlägg och se tidigare inlägg på sidan.
 
 
 2. Sockets
