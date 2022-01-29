@@ -9,7 +9,7 @@ textfil (För G behöver du inte spara i JSON-format, utan kan t.ex. bara ha en 
 mellan varje inlägg). Du kan ha valfri uppsättning inmatningsfält (i exemplet finns namn,
 email, hemsida, telefon och kommentar) men minst ett textfält för att skriva in kommentar
 ska finnas.
- - [ x ] För betyget G krävs att den grundläggande funktionaliteten finns, dvs. att användare ska
+ - [x] För betyget G krävs att den grundläggande funktionaliteten finns, dvs. att användare ska
 kunna skriva inlägg och se tidigare inlägg på sidan.
 
 
